@@ -12,7 +12,7 @@
 
 // exports a function
 export function log (message) {
-    console.log("h",message)
+    console.log(message)
   }
   
   // exports a constant
